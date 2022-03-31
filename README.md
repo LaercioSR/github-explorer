@@ -49,3 +49,4 @@ The following tools were used in building the project:
 - **[TypeScript](https://www.typescriptlang.org/)**
 - **[React](https://pt-br.reactjs.org/)**
   - [ReactDOM](https://pt-br.reactjs.org/docs/react-dom.html)
+- **[Babel](https://babeljs.io/)**
