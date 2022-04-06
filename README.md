@@ -21,9 +21,13 @@ Repository containing the project developed during the Ignite track of React fro
 
 ## About
 
+Project for listing repositories. Developed during the [Rocketseat](https://www.rocketseat.com.br/) React course.
+
 ## How to Run
 
 ### Prerequisites
+
+To run the project you will need to have [node](https://nodejs.dev/) installed on your machine.
 
 ### Running
 
@@ -40,6 +44,10 @@ $ cp .env.example .env
 
 # Install the dependencies
 $ npm install
+
+# Run the application with the following command
+$ npm run dev
+# If everything is correct, the application can be accessed through the URL http://localhost:8080
 ```
 
 ## Technologies
@@ -50,3 +58,5 @@ The following tools were used in building the project:
 - **[React](https://pt-br.reactjs.org/)**
   - [ReactDOM](https://pt-br.reactjs.org/docs/react-dom.html)
 - **[Babel](https://babeljs.io/)**
+- **[Webpack](https://webpack.js.org/)**
+- **[Sass](https://sass-lang.com/)**
