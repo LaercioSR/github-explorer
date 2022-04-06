@@ -7,10 +7,8 @@
   <h1>Github Actions</h1>
 </p>
 
-Repository containing the project developed during the Ignite track of React from [Rocketseat](https://www.rocketseat.com.br/).
-
 <h4 align="center">
- 🚧  Project in Progress  🚧
+ ✅  Finished Project  ✅
 </h4>
 
 <p align="center">
@@ -21,7 +19,11 @@ Repository containing the project developed during the Ignite track of React fro
 
 ## About
 
-Project for listing repositories. Developed during the [Rocketseat](https://www.rocketseat.com.br/) React course.
+Project for listing repositories. Repository containing the project developed during the Ignite track of React from [Rocketseat](https://www.rocketseat.com.br/).
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LaercioSR/github-explorer/main/public/screenshot.png" height="auto" width="80%" alt="Screenshot" />
+</p>
 
 ## How to Run
 
